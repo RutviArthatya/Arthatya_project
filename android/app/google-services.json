@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736904223893",
+    "project_id": "currency-converter-flutter",
+    "storage_bucket": "currency-converter-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736904223893:android:5aa7e95334102bee058f9c",
+        "android_client_info": {
+          "package_name": "com.app.r.currency.s.converter.currency_converter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ-De0KWH-5HjzpDTcYelDspJ-dVRlpp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
